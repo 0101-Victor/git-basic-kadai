@@ -1,4 +1,4 @@
-commit fca2c9d872ae97931f8ac7eaca37f7cf757080d8 (HEAD -> main)
-    日本語訳を追記
-commit 32d90c1e8224de9e5088f08343a6dd868a90337e
-    hello_world.txtを追加
+da8185b (HEAD -> main, origin/main) kadai_005.txtを追加
+b3dfaaa kadai_005ディレクトリを作成
+fca2c9d 日本語訳を追記
+32d90c1 hello_world.txtを追加
