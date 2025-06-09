@@ -1,0 +1,4 @@
+commit fca2c9d872ae97931f8ac7eaca37f7cf757080d8 (HEAD -> main)
+    日本語訳を追記
+commit 32d90c1e8224de9e5088f08343a6dd868a90337e
+    hello_world.txtを追加
